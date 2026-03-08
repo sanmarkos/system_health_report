@@ -1,0 +1,46 @@
+==========System Status Report============
+
+----Generated on----
+03/08/2026 14:55:14
+
+----Disk Usage----
+
+Name used(GB) free(GB)
+---- -------- --------
+C    142.36   137.59  
+D    134.74   60.58   
+
+
+
+----CPU Usage----
+
+DeviceId Name                                      LoadPercentage
+-------- ----                                      --------------
+CPU0     Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz              4
+
+
+
+----Memory Usage----
+Total RAM Memory: 15.83
+Free RAM Memory: 7.36
+Used Memory:8.46
+Used RAM Memory Percentage: 53.47
+Free RAM Memory Percentage: 46.53
+
+----Top 5 Running Processes by Memory Usage----
+
+Name                  Id Memory(MB)
+----                  -- ----------
+brave               5144 1,287.94  
+MsMpEng             4568 362.35    
+explorer           15880 329.82    
+Memory Compression  3260 284.50    
+brave              19540 276.00    
+
+
+
+----Running Services----
+
+Appinfo, AppXSvc, AudioEndpointBuilder, Audiosrv, BFE, BITS, BluetoothUserService_33b547e, BrokerInfrastructure, BTAGService, BthAvctpSvc, bthserv, camsvc, cbdhsvc_33b547e, CDPSvc, CDPUserSvc_33b547e, ClickToRunSvc, ClipSVC, CoreMessagingRegistrar, cphs, cplspcon, CryptSvc, DcomLaunch, DeviceAssociationService, DevicesFlowUserSvc_33b547e, Dhcp, DiagTrack, DispBrokerDesktopSvc, DisplayEnhancementService, Dnscache, DoSvc, DPS, DsSvc, DusmSvc, EventLog, EventSystem, fdPHost, FDResPub, FileSyncHelper, FontCache, FontCache3.0.0.0, gpsvc, hidserv, HvHost, igccservice, igfxCUIService2.0.0.0, IKEEXT, InstallService, InventorySvc, iphlpsvc, jhi_service, KeyIso, LanmanServer, LanmanWorkstation, lfsvc, LicenseManager, lmhosts, LMS, LSM, MDCoreSvc, mpssvc, NahimicService, NcbService, NcdAutoSetup, netprofm, NgcCtnrSvc, NgcSvc, NPSMSvc_33b547e, nsi, NvContainerLocalSystem, NVDisplay.ContainerLocalSystem, OneSyncSvc_33b547e, PcaSvc, PhoneSvc, PlugPlay, PolicyAgent, Power, ProfSvc, RasMan, RmSvc, RpcEptMapper, RpcSs, RtkAudioUniversalService, SamSs, Schedule, SecurityHealthService, SENS, ShellHWDetection, Splunkd, Spooler, sppsvc, SSDPSRV, SstpSvc, StateRepository, StiSvc, StorSvc, SysMain, SystemEventsBroker, Tailscale, TextInputManagementService, Themes, TimeBrokerSvc, TokenBroker, TrkWks, TrustedInstaller, UdkUserSvc_33b547e, UserManager, UsoSvc, VaultSvc, VMAuthdService, VMnetDHCP, VMUSBArbService, VMware NAT Service, W32Time, WaaSMedicSvc, Wcmsvc, WdiSystemHost, WdNisSvc, webthreatdefusersvc_33b547e, WFDSConMgrSvc, whesvc, WinDefend, WinHttpAutoProxySvc, Winmgmt, WlanSvc, wlidsvc, WpnService, WpnUserService_33b547e, WSAIFabricSvc, wscsvc, WSearch, XblAuthManager
+
+============End of Report=============
